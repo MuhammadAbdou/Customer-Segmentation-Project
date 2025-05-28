@@ -38,7 +38,7 @@ jupyter notebook Customer_Segment.ipynb
 ```
 
 ## 📁 File Structure
-- `Pattern_Project_Organized.ipynb`: Main notebook
+- `Customer_Segment.ipynb`: Main notebook
 - `requirements.txt`: Python dependencies
 - `README.md`: Project documentation
 
